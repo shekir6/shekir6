@@ -1,4 +1,4 @@
-                                                                                   Hi 👋, I'm Shekir Troh
+                                                                             Hi 👋, I'm Shekir Troh
 
 <!--
 **shekir6/shekir6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
