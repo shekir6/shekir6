@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shekir Troh</h1>
 <h3 align="center">👀 I’m interested in Quality Assurance</h3>
-<h3 align="center">🌱 I’m currently learning Automation QA</h3>
+<h3 align="center">🌱 QA Automation QA</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
